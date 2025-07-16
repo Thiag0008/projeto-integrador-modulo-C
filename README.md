@@ -6,17 +6,9 @@ https://ibb.co/tRxFH6d (Screenshot do projeto)
 
 ---
 
-## 📌 Índice
 
-- [Funcionalidades](#🚀-funcionalidades)
-- [Tecnologias Utilizadas](#🛠️-tecnologias-utilizadas)
-- [Como Executar o Projeto](#⚙️-como-executar-o-projeto)
-- [Estrutura do Projeto](#📂-estrutura-do-projeto)
-- [Contribuindo para o Projeto](#🤝-contribuindo-para-o-projeto)
-- [Autores](#👨‍💻-autores)
-- [Licença](#📄-licença)
 
----
+
 
 ## 🚀 Funcionalidades
 
