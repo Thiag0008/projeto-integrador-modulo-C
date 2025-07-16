@@ -70,11 +70,9 @@ git clone https://github.com/Thiag0008/teste2.git
  ┃ ┣ 📂locadora_util
  ┃ ┣ 📂locadora_view
  ┃ ┗ 📜MainView.java
- ┣ 📂lib (bibliotecas externas, se houver)
  ┣ 📂posters (imagens usadas no projeto)
  ┣ 📜README.md (este arquivo)
- ┣ 📜.gitignore (arquivos que não devem ir para o repositório)
- ┗ 📜LICENSE (arquivo de licença)
+ 
 ```
 
 
