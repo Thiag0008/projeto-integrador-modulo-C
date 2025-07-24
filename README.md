@@ -49,7 +49,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/Thiag0008/teste2.git
+git clone https://github.com/Thiag0008/projeto-integrador-modulo-C.git
 ```
 
 2. Abra o projeto no NetBeans.
